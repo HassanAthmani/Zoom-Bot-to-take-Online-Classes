@@ -1,0 +1,7 @@
+*.ini
+*.sql
+*.xml
+*.pyc
+*.log
+/.idea
+/_pycache_
